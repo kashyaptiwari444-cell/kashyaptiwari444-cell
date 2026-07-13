@@ -1,4 +1,4 @@
-<h2 align="left">
+<h4 align="left">
 Hi 👋! I'm Kashyap Tiwari <br>
 🚀 Full Stack MERN Developer | MCA Student from India 🇮🇳 <br/>
 
@@ -7,18 +7,18 @@ Hi 👋! I'm Kashyap Tiwari <br>
 📚I'm currently learning MERN & PYTHON Full Stack.<br/>
 🌟MERN more Learn more. 😜<br/>
 💭 My thought just improve my skills.<br/>
-</h2>
+</h4>
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
 </div>
 
 ---
 
-# 🌐 Connect with Me
+<h3> 🌐 Connect with Me</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashyap_tiwari_07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyap-tiwari-25627137a/)
@@ -26,7 +26,8 @@ Hi 👋! I'm Kashyap Tiwari <br>
 
 ---
 
-# 💻 Tech Stack
+
+<h3> 💻 Tech Stack </h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
