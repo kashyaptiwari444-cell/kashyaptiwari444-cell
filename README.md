@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | MERN Stack Developer | Python Developer from India 🇮🇳
+🚀 Full Stack Web Developer | MERN & PYTHON Full Stack Developer from India 🇮🇳
 </h3>
 
 <p align="center">
@@ -14,19 +14,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing **BCA 5 (Pursuing)**
+- 🎓**BCA 5 (Pursuing)**
+- 🔭 I’m currently working on my projects and improve my skills
+- 🌱 I’m currently learning **MERN Stack & Python Full Stack**
+- 👯 I’m looking to collaborate on Projects
+- 💬 Building real-world projects to improve problem-solving and development skills
 
-💡 Passionate about Full Stack Web Development
+- 🌱 Learning something new every day
+- ⚡ Fun fact: MERN more Learn more.😜
 
-📚 Currently learning **Advanced MERN Stack & Python Full Stack**
-
-💻 Building real-world projects to improve problem-solving and development skills
-
-🚀 Interested in Backend Development, REST APIs, Authentication, and Database Design
-
-🌱 Learning something new every day
-
-🌟 MERN more Learn more.😜
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
@@ -71,9 +67,9 @@
 - Book Management
 - Issue & Return Books
 - Authentication & Authorization
-- Admin Dashboard
+- Admin / Student Dashboard
 
-### 🌐 Portfolio Website (MERN)
+### 🌐 Personal Portfolio (MERN)
 - Responsive Portfolio
 - Modern UI
 - Project Showcase
