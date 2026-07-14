@@ -1,33 +1,40 @@
-<h4 align="left">
-Hi 👋! I'm Kashyap Tiwari <br>
-🚀 Full Stack MERN Developer | MCA Student from India 🇮🇳 <br/>
+<h1 align="center">
+  Hi 👋, I'm Kashyap Tiwari
+</h1>
 
-🎤I'm currently working on my projects and skill improvement.<br/>
-🎓I'm pursuing BCA 5.<br/>
-📚I'm currently learning MERN & PYTHON Full Stack.<br/>
-🌟MERN more Learn more. 😜<br/>
-💭 My thought just improve my skills.<br/>
-</h4>
+<h3 align="center">
+🚀 Full Stack Web Developer | MERN Stack Developer | Python Developer from India 🇮🇳
+</h3>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashyaptiwari444-cell&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-<h3> 🌐 Connect with Me</h3>
+## 👨‍💻 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashyap_tiwari_07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyap-tiwari-25627137a/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashyap@gmail.com)
+🎓 Pursuing **BCA 5 (Pursuing)**
+
+💡 Passionate about Full Stack Web Development
+
+📚 Currently learning **Advanced MERN Stack & Python Full Stack**
+
+💻 Building real-world projects to improve problem-solving and development skills
+
+🚀 Interested in Backend Development, REST APIs, Authentication, and Database Design
+
+🌱 Learning something new every day
+
+🌟 MERN more Learn more.😜
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
 
 ---
 
-
-<h3> 💻 Tech Stack </h3>
+# 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,11 +59,63 @@ Hi 👋! I'm Kashyap Tiwari <br>
 
 ---
 
-<br clear="both">
+# 🚀 Featured Projects
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+### 🩺 Doctor Appointment Booking System (MERN)
+- Full-stack doctor appointment booking platform
+- Authentication with JWT
+- Admin & User Dashboard
+- Appointment Management
 
-###
+### 📚 E-Library Management System (MERN)
+- Book Management
+- Issue & Return Books
+- Authentication & Authorization
+- Admin Dashboard
+
+### 🌐 Portfolio Website (MERN)
+- Responsive Portfolio
+- Modern UI
+- Project Showcase
+- Contact Form
+
+### 🐍 E-Library Management System (Python)
+- Django-based Library Management System
+- CRUD Operations
+- Authentication
+- MySQL Database
+
+### 📄 ATS Resume Checker (Python)
+- Resume Analysis
+- ATS Score Prediction
+- Skill Matching
+- Resume Suggestions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaptiwari444-cell&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kashyap_tiwari_07)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyap-tiwari-25627137a/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashyaptiwari444-cell)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
