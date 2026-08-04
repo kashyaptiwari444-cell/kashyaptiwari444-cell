@@ -75,11 +75,12 @@
 - Project Showcase
 - Contact Form
 
-### 🐍 E-Library Management System (Python)
-- Django-based Library Management System
-- CRUD Operations
-- Authentication
-- MySQL Database
+### 🛒 E-Commerce Website (Python)
+* Django-based E-Commerce Website
+* Product & Category Management (CRUD)
+* User Authentication & Authorization
+* Shopping Cart & Order Management
+* MySQL Database
 
 ### 📄 ATS Resume Checker (Python)
 - Resume Analysis
