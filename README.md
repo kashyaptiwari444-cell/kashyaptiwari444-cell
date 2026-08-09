@@ -89,12 +89,12 @@
 - Resume Suggestions
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaptiwari444-cell&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
