@@ -63,33 +63,33 @@
 - Authentication with JWT
 - Admin & User Dashboard
 - Appointment Management
--->
-### 📚 E-Library Management System (MERN)
+
+### -->📚 E-Library Management System (MERN)
 <!--
 - Book Management
 - Issue & Return Books
 - Authentication & Authorization
 - Admin / Student Dashboard
--->
 
-### 🌐 Personal Portfolio (MERN)
+
+###--> 🌐 Personal Portfolio (MERN)
 <!--
 - Responsive Portfolio
 - Modern UI
 - Project Showcase
 - Contact Form
--->
 
-### 🛒 E-Commerce Website (Python)
+
+###--> 🛒 E-Commerce Website (Python)
 <!--
 * Django-based E-Commerce Website
 * Product & Category Management (CRUD)
 * User Authentication & Authorization
 * Shopping Cart & Order Management
 * MySQL Database
--->
 
-### 📄 ATS Resume Checker (Python)
+
+###--> 📄 ATS Resume Checker (Python)
 <!--
 - Resume Analysis
 - ATS Score Prediction
