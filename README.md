@@ -57,14 +57,15 @@
 
 # 🚀 Featured Projects
 
-### 🩺 Doctor Appointment Booking System (MERN)
+ 🩺 Doctor Appointment Booking System (MERN)
 <!--
 - Full-stack doctor appointment booking platform
 - Authentication with JWT
 - Admin & User Dashboard
 - Appointment Management
 
-### -->📚 E-Library Management System (MERN)
+### -->
+📚 E-Library Management System (MERN)
 <!--
 - Book Management
 - Issue & Return Books
@@ -72,7 +73,8 @@
 - Admin / Student Dashboard
 
 
-###--> 🌐 Personal Portfolio (MERN)
+###--> 
+🌐 Personal Portfolio (MERN)
 <!--
 - Responsive Portfolio
 - Modern UI
@@ -80,7 +82,8 @@
 - Contact Form
 
 
-###--> 🛒 E-Commerce Website (Python)
+###--> 
+🛒 E-Commerce Website (Python)
 <!--
 * Django-based E-Commerce Website
 * Product & Category Management (CRUD)
@@ -89,7 +92,8 @@
 * MySQL Database
 
 
-###--> 📄 ATS Resume Checker (Python)
+###--> 
+📄 ATS Resume Checker (Python)
 <!--
 - Resume Analysis
 - ATS Score Prediction
@@ -98,7 +102,8 @@
 -->
 ---
 <!--
-## 📊 GitHub Stats
+## 
+📊 GitHub Stats
 
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaptiwari444-cell&theme=tokyonight" alt="GitHub Streak"/>
