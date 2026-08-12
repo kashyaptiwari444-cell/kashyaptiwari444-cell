@@ -58,36 +58,44 @@
 # 🚀 Featured Projects
 
 ### 🩺 Doctor Appointment Booking System (MERN)
+<!--
 - Full-stack doctor appointment booking platform
 - Authentication with JWT
 - Admin & User Dashboard
 - Appointment Management
-
+-->
 ### 📚 E-Library Management System (MERN)
+<!--
 - Book Management
 - Issue & Return Books
 - Authentication & Authorization
 - Admin / Student Dashboard
+-->
 
 ### 🌐 Personal Portfolio (MERN)
+<!--
 - Responsive Portfolio
 - Modern UI
 - Project Showcase
 - Contact Form
+-->
 
 ### 🛒 E-Commerce Website (Python)
+<!--
 * Django-based E-Commerce Website
 * Product & Category Management (CRUD)
 * User Authentication & Authorization
 * Shopping Cart & Order Management
 * MySQL Database
+-->
 
 ### 📄 ATS Resume Checker (Python)
+<!--
 - Resume Analysis
 - ATS Score Prediction
 - Skill Matching
 - Resume Suggestions
-
+-->
 ---
 <!--
 ## 📊 GitHub Stats
