@@ -6,9 +6,9 @@
 🚀 Full Stack Web Developer | MERN & PYTHON Full Stack Developer from India 🇮🇳
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kashyaptiwari444-cell&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> 
 
 ---
 
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </p>
-
+-->
 ---
 
 # 💻 Tech Stack
@@ -54,37 +54,37 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
+<!--
 # 🚀 Featured Projects
 
  🩺 Doctor Appointment Booking System (MERN)
-<!--
+
 - Full-stack doctor appointment booking platform
 - Authentication with JWT
 - Admin & User Dashboard
 - Appointment Management
 
-### -->
+### 
 📚 E-Library Management System (MERN)
-<!--
+
 - Book Management
 - Issue & Return Books
 - Authentication & Authorization
 - Admin / Student Dashboard
 
 
-###--> 
+###
 🌐 Personal Portfolio (MERN)
-<!--
+
 - Responsive Portfolio
 - Modern UI
 - Project Showcase
 - Contact Form
 
 
-###--> 
+###
 🛒 E-Commerce Website (Python)
-<!--
+
 * Django-based E-Commerce Website
 * Product & Category Management (CRUD)
 * User Authentication & Authorization
@@ -92,16 +92,16 @@
 * MySQL Database
 
 
-###--> 
+### 
 📄 ATS Resume Checker (Python)
-<!--
+
 - Resume Analysis
 - ATS Score Prediction
 - Skill Matching
 - Resume Suggestions
--->
+
 ---
-<!--
+
 ## 
 📊 GitHub Stats
 
