@@ -53,7 +53,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 <!--
 # 🚀 Featured Projects
 
